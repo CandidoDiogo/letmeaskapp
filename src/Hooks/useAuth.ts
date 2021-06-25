@@ -6,3 +6,5 @@ export function useAuth() {
 
     return value;
 }
+
+//useContext - armazenamento e passagem de dados entre pages
